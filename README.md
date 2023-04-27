@@ -3,6 +3,10 @@
 My first solo web project was created after learning HTML, CSS, and Bootstrap.
 This is my first responsive webpage, available on mobile, and desktop versions.
 It's a static webpage with 8 sections and is intended for people who want to start or change their careers in IT technologies.
+## Languages Used
+- HTML 
+- CSS
+- BOOTSTRAP
 ## Website Demonstration 
 Landing page sections:
 - Header, Events, Community, Scholarship, Circle Form, Success, Carousel, Footer (Contact) 
